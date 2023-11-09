@@ -1,0 +1,70 @@
+.weather{
+   
+  margin: 0;
+  margin: 0;
+  padding: 0;
+  background-image: url('https://img.freepik.com/free-photo/white-cloud-blue-sky_74190-2381.jpg?w=1060&t=st=1695728902~exp=1695729502~hmac=d3d662763124c51c2e3e0c19dd3de0a37f2bbb3070312355fdfa63ea1d8fd605');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 100%;
+  height: 100%;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+.card {
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: rgb(60, 116, 235);
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+}
+
+.card-img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.card-content {
+  padding: 10px;
+}
+
+.card-title {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.card-description {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.card-button {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: #4CAF50;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+.btn.btn-light{
+  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Flovepik.com%2Fimages%2Fpng-search-icon.html&psig=AOvVaw1I77kv3EJxjupZbQERTV_X&ust=1697609734734000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCCx5-3_IEDFQAAAAAdAAAAABAI') ;
+  border-radius: 4px;
+}
+
+
+.form-control{
+  border-radius: 4px;
+}
